@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="670" height="670" viewBox="0 0 670 670">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".152" x2="1.597" y1=".823" y2="-.548" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f9d423"/>
+            <stop offset="1" stop-color="#ff4e50"/>
+        </linearGradient>
+    </defs>
+    <path id="prefix__Rectangle_51" d="M0 0h670v670A670 670 0 010 0z" data-name="Rectangle 51"/>
+</svg>

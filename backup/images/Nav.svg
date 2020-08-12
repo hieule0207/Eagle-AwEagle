@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Nav" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix___Icon_Color" d="M10 17.5H1.25a1.249 1.249 0 110-2.5H10a1.249 1.249 0 110 2.5zM1.25 10a1.25 1.25 0 010-2.5h20a1.25 1.25 0 010 2.5zm0-7.5C.713 2.5 0 2.5 0 1.25S.713 0 1.25 0h14.957a1.251 1.251 0 110 2.5z" data-name="🎨 Icon Color" style="fill:#222b45"/>
+        </clipPath>
+        <style>
+            .prefix__cls-4{fill-rule:evenodd}
+        </style>
+    </defs>
+    <g id="prefix___22_Icons_Filled_Star" data-name="22) Icons/Filled/Star">
+        <path id="prefix___22_Icons_Filled_Star_background" d="M0 0H30V30H0z" data-name="22) Icons/Filled/Star background" style="fill:transparent"/>
+        <g id="prefix__align-center" transform="translate(-1310 -92)">
+            <g id="prefix__Vector" transform="translate(1313 99)">
+                <path id="prefix__Path_891" d="M1316 104.162a1.164 1.164 0 011.162-1.162h13.95a1.162 1.162 0 010 2.325h-13.95a1.164 1.164 0 01-1.162-1.163z" class="prefix__cls-4" data-name="Path 891" transform="translate(-1312.513 -98.35)"/>
+                <path id="prefix__Path_892" d="M1313 100.162a1.164 1.164 0 011.162-1.162h20.925a1.162 1.162 0 110 2.325h-20.925a1.164 1.164 0 01-1.162-1.163z" class="prefix__cls-4" data-name="Path 892" transform="translate(-1313 -99)"/>
+                <path id="prefix__Path_893" d="M1313 108.162a1.164 1.164 0 011.162-1.162h20.925a1.162 1.162 0 110 2.325h-20.925a1.164 1.164 0 01-1.162-1.163z" class="prefix__cls-4" data-name="Path 893" transform="translate(-1313 -97.7)"/>
+                <path id="prefix__Path_894" d="M1316 112.163a1.164 1.164 0 011.162-1.162h13.95a1.162 1.162 0 010 2.325h-13.95a1.164 1.164 0 01-1.162-1.163z" class="prefix__cls-4" data-name="Path 894" transform="translate(-1312.513 -97.05)"/>
+            </g>
+        </g>
+    </g>
+</svg>
