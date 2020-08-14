@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Mask" d="M5.728 12.409V7.637H.954a.954.954 0 010-1.909h4.774V.954a.954.954 0 011.909 0v4.774h4.772a.954.954 0 110 1.909H7.637v4.772a.954.954 0 11-1.909 0z" style="fill:#222b45"/>
+        </clipPath>
+        <style>
+        </style>
+    </defs>
+    <g id="prefix___22_Icons_Line_Plus" data-name="22) Icons/Line/Plus" transform="translate(0 .09)">
+        <path id="prefix___22_Icons_Line_Plus_background" d="M0 0H24V24H0z" data-name="22) Icons/Line/Plus background" transform="translate(0 -.09)" style="fill:transparent"/>
+        <path id="prefix__Mask-2" d="M6.156 13.338v-5.13h-5.13a1.026 1.026 0 110-2.052h5.13v-5.13a1.026 1.026 0 112.052 0v5.13h5.129a1.026 1.026 0 110 2.052H8.208v5.129a1.026 1.026 0 11-2.052 0z" data-name="Mask" transform="translate(4.773 4.773)" style="fill:#fff"/>
+    </g>
+</svg>
