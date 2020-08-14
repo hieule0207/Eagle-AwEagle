@@ -166,6 +166,14 @@ body{
     font-size: 3vw;
     margin-bottom: 4rem;
   }
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+    text-decoration: none;
+}
 /* second place */
 .home__second-wrapper{
     position: relative;
@@ -206,8 +214,21 @@ body{
 .home__second-contact{
     margin-bottom:30px
 }
+.home__second-contactItem h2{
+    font-size: 1.5rem;
+}
 .home__second-contactImg{
     margin: 0 auto;
+}
+@media screen and (max-width: 950px) {
+    h2{
+        font-size: 1.5rem;
+    }
+}
+@media screen and (max-width: 770px) {
+    h2{
+        font-size: 1.2rem;
+    }
 }
 @media screen and (max-width: 680px) {
     .home__first-logo{
@@ -273,6 +294,9 @@ body{
     }
     .home__first-menu p {
         font-size: 30px;
+    }
+    .home__second-contactItem h2{
+        font-size: 1.5rem;
     }
 }
 /* --sidebar */
